@@ -33,4 +33,4 @@ git config --global user.email myEmail@example.com
 Для того, чтобы создать коммит(сохранение) необходимо выполнить команду *git commit*. 
 
 Выполняется она так:
-![Выполняется она так](/images/img.png)
+![Выполняется она так](/img.jpg)
